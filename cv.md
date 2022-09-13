@@ -14,13 +14,13 @@ Belarus, Minsk
 
 **Goal:** Work in a team with professionals and grow into a confident specialist. Improve skills in JS
 
+### Additional information:
+* Active lifestyle, flexible thinking, resourcefulness. Ambitious, focused on results.
+* The ability and desire to master new technologies.
+* Responsibility, scrupulousness, attentiveness.
+
 ### Key skills and knowledge:
 * Understanding the development process
 * Cross-browser, adaptive layout of Figma layouts
 * Working with CSS preprocessors
 * Development of simple JavaScript software solutions
-
-### Additional information:
-* Active lifestyle, flexible thinking, resourcefulness. Ambitious, focused on results.
-* The ability and desire to master new technologies.
-* Responsibility, scrupulousness, attentiveness.
