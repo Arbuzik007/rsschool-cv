@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+*{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    list-style: circle;
+}
+a{
+    color: rgb(0, 132, 255);
+    text-decoration: none;
+}
+a:hover {text-decoration: underline;}
+.ava {width: 170px;
+padding: 0;}
+.ava img{width: 100%;}
+.header, .footer {
+    background-color: rgb(113, 255, 236);
+    color: white;
+    max-width: 1920px;
+    margin: 0 auto;
+}
+header{
+    background-color: rgb(113, 255, 236);
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+footer{
+    background-color: rgb(113, 255, 236);
+    
+}
+div{padding: 20px;}
+main {
+    max-width: 1920px;
+    margin: 0 auto;
+    padding: 0 10%;
+}
+.goal, .email, h2 {
+    margin-top: 30px;
+}
+p {margin-top: 10px;}
+nav {
+    display: flex;
+}
+.menu{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 70%;
+    margin: 0 auto;
+}
+.menu li {
+    display: inline-block;
+    list-style: none;
+    margin: 5px 20px;
+}
+.menu li a {color: white;}
+.about_me{
+    display: flex;
+    padding: 0;
+}
+.rss{
+    width: 120px;
+    margin: 20px 50px;
+    padding: 0;
+}
+.icon{
+    width: 50px;
+    margin: 20px 50px;
+}
+.icons{display: flex;}
+.year{font-size: 25px;}
+.li{list-style: none;}
+.ul{padding: 0;}
+
+
+@media screen and (max-width: 450px) {
+    .rss{
+        width: 90px;
+        margin: 20px 20px;
+        padding: 0;
+    }
+    .icon{
+        width: 50px;
+        margin: 20px 20px;
+    }
+    .about_me{
+        display: block;
+        justify-content: center;
+        padding: 0;
+    }
+    .ava {
+        margin: 10px auto;
+        text-align: center;
+    }
+}
